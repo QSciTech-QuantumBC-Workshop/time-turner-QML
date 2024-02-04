@@ -2,3 +2,5 @@
 
 # Metadata files
 *.DS_Store
+
+MNIST_CSV/mnist_train.csv
